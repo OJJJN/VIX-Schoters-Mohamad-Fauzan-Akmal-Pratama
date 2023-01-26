@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">newsapp</string>
+    <string name="refresh_error">can\'t refresh the news</string>
+    <string name="loading">loading …</string>
+    <string name="home_label">Home</string>
+    <string name="bookmark_label">Bookmark</string>
+    <string name="profile_label">Profile</string>
+    <string name="under_development_msg">Under Development</string>
+    <string name="full_name">Mohamad Fauzan Akmal Pratama</string>
+    <string name="github_username">mfauzanakmalpratama</string>
+    <string name="bookmark_empty_msg">Kamu belum sama sekali bookmark nih</string>
+    <string name="refreshed_success_msg">refresh success</string>
+    <string name="fetch_bookmarked_news_msg">bookmarked news berhasil di fetched</string>
+    <string name="news_bookmarked_msg">berita berhasil di bookmarked</string>
+    <string name="news_bookmarked_deleted_msg">berita berhasil di deleted dari bookmarked</string>
+</resources>
